@@ -1,3 +1,27 @@
+Harvey Wheeler - 9/8
+
+---
+
+#### \- Summary -
+
+ALMOST fixed the 7-button menu.
+
+
+
+##### \- Changes Made -
+
+* Buttons now show and hide properly.
+
+
+##### \- Bugs -
+
+* Dialog box size is static (too large). Will need to be adjustable.
+
+
+##### \- Additional Notes -
+
+* Working on making the dialog box change size based on response amount.
+
 Harvey Wheeler - 9/4
 
 ---
